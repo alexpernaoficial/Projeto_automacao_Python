@@ -131,28 +131,3 @@ Projeto desenvolvido durante estudo de automação com Python, simulando cenári
 
  Se este projeto foi útil para você, deixe uma estrela!
 ```
-
----
-
-##  PASSOS PRA SUBIR:
-```
-1. GitHub.com → New repository
-2. Nome: automacao-vendas
-3. Public + Add README
-4. Create repository
-
-5. Upload files → Seu arquivo .ipynb
-6. Commit: "Adiciona automação vendas"
-
-7. Clica README.md → Edit (lápis)
-8. APAGA TUDO
-9. COLA o texto acima
-10. Commit changes
-
-11. PRONTO! 
-```
-
----
-
-##  PERSONALIZE:
-
